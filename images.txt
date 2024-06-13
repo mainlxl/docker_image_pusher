@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 shuiche/mind-map
 jeessy/ddns-go
+summary/portainer-ce
