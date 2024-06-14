@@ -7,3 +7,4 @@
 shuiche/mind-map
 jeessy/ddns-go
 summary/portainer-ce
+cooderl/wewe-rss-sqlite
