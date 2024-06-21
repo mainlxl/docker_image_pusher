@@ -8,4 +8,6 @@ shuiche/mind-map
 jeessy/ddns-go
 summary/portainer-ce
 cooderl/wewe-rss-sqlite
-fudaoyuanicu/chattts-ui
+
+#太大不更新
+#fudaoyuanicu/chattts-ui
