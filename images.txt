@@ -11,3 +11,5 @@ cooderl/wewe-rss-sqlite
 
 #太大不更新
 #fudaoyuanicu/chattts-ui
+
+vinlic/deepseek-free-api
