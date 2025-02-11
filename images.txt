@@ -12,4 +12,5 @@ cooderl/wewe-rss-sqlite
 #太大不更新
 #fudaoyuanicu/chattts-ui
 
-vinlic/deepseek-free-api
+#vinlic/deepseek-free-api
+ghcr.io/raspap/raspap-docker:latest
