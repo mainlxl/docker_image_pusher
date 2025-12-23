@@ -7,4 +7,6 @@
 
 #ghcr.io/snailyp/gemini-balance:latest
 
+#mihomo
 metacubex/mihomo:latest
+metacubex/metacubexd:latest
