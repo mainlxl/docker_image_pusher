@@ -9,3 +9,4 @@
 
 ghcr.io/mainlxl/gebalance:latest
 gollumwiki/gollum
+dreamacro/clash:latest
