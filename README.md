@@ -11,7 +11,7 @@
 B站，抖音，Youtube全网同名，转载请注明作者<br>
 
 ## 使用方式
-[镜像](https://cr.console.aliyun.com/repository/cn-hangzhou/mainli/clash/details)
+[镜像](https://cr.console.aliyun.com/cn-hangzhou/instance/repositories)
 
 ### 配置阿里云
 登录阿里云容器镜像服务<br>
