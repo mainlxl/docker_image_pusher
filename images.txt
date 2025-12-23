@@ -9,4 +9,4 @@
 
 #mihomo
 metacubex/mihomo:latest
-metacubex/metacubexd:latest
+ghcr.io/metacubex/metacubexd:latest
