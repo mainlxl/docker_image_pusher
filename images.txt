@@ -7,6 +7,4 @@
 
 #ghcr.io/snailyp/gemini-balance:latest
 
-ghcr.io/mainlxl/gebalance:latest
-gollumwiki/gollum
-dreamacro/clash:latest
+metacubex/mihomo:latest
