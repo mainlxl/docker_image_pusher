@@ -10,4 +10,4 @@
 #mihomo
 metacubex/mihomo:latest
 ghcr.io/metacubex/metacubexd:latest
-shinobicctv/shinobi
+jenkins/jenkins:lts
